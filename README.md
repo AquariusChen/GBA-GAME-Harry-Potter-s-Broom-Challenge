@@ -11,9 +11,9 @@ Docker
 - make med
 - you are ready to play!
 
-![game](/image/start.png | width=100)
-![game](/image/play.png | width=100)
-![game](/image/game_over.png | width=100)
+![game](/image/start.png =100x)
+![game](/image/play.png =100x)
+![game](/image/game_over.png =100x)
 
 ## Scenario:
 Harry Potter is ready to fly from the grass to the sky for catching a golden snitch! His view will be blocked if he flies into the cloud, so please flying in the sky or walking on the grass freely but avoiding the cloud!
