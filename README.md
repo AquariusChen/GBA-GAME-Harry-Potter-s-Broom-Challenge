@@ -11,7 +11,7 @@ Docker
 - make med
 - you are ready to play!
 
-![game](game over.png)
+![](game over.png)
 
 ## Scenario:
 Harry Potter is ready to fly from the grass to the sky for catching a golden snitch! His view will be blocked if he flies into the cloud, so please flying in the sky or walking on the grass freely but avoiding the cloud!
@@ -21,7 +21,7 @@ Harry Potter is ready to fly from the grass to the sky for catching a golden sni
 ## How to lose: Crash into any cloud.
 
 ## Controls:
-Press [Enter] as START to begin;/Users/aquarius/Desktop/屏幕快照 2020-07-08 上午12.17.53.png
+Press [Enter] as START to begin;
 Press BUTTON_L /[A] as UP to move;
 Press BUTTON_R /[S] as DOWN to move;
 Press BUTTON_A /[Z] as LEFT to move;
