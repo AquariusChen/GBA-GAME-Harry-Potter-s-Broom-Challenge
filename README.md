@@ -12,7 +12,7 @@ Docker
 - you are ready to play!
 
 ![game](/image/play.png)
-![game](/image/gameover.png)
+![game](/image/game.png)
 
 
 ## Scenario:
