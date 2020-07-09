@@ -11,7 +11,7 @@ Docker
 - make med
 - you are ready to play!
 
-<img src="/image/start.png" alt="drawing" width="200"/>
+<img src="./image/start.png" alt="drawing" width="100"/>
 ![game](/image/play.png =100x)
 ![game](/image/game_over.png =100x)
 
