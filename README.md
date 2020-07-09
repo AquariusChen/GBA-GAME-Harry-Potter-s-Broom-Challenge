@@ -12,8 +12,7 @@ Docker
 - you are ready to play!
 
 ![game](/image/play.png)
-![game](/image/game_over.png)
-<img src="./image/start.png" alt="drawing" width="100"/>
+![game](/image/gameover.png)
 
 
 ## Scenario:
