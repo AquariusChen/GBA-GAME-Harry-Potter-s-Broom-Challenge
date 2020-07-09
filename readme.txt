@@ -11,6 +11,8 @@ Docker
 - make med
 - you are ready to play!
 
+./game over.jpg
+
 Scenario: Harry Potter is ready to fly from the grass to the sky for catching a golden snitch! His view will be blocked if he flies into the cloud, so please flying in the sky or walking on the grass freely but avoiding the cloud!
 
 How to win: Catch the golden snitch.
